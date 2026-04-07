@@ -2,12 +2,12 @@
 
 ## Phase 1 — Base Setup ← YOU ARE HERE
 - [x] Claude project folders created (5 projects on claude.ai)
-- [ ] GitHub monorepo scaffolded (this task)
+- [x] GitHub monorepo scaffolded (3 repos: futurx-agent, Products, Marketing)
 - [ ] Supabase connection (packages/shared-supabase)
 - [ ] Firebase analytics (packages/shared-analytics)
 - [ ] OTP authentication (packages/shared-auth)
-- [ ] SKILL.md files complete (skills/)
-- [ ] CLAUDE.md at root and per app
+- [x] SKILL.md files complete (9 skills in skills/)
+- [x] CLAUDE.md at root and per app
 
 ## Phase 2 — Core Features
 - [ ] Payment gateway — all 4 apps (packages/shared-payments)
