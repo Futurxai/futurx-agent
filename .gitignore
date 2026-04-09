@@ -28,3 +28,6 @@ google-services.json
 # Build tools
 .turbo/
 *.log
+
+# Skill binary files (import into Claude.ai, not for VS Code)
+*.skill
