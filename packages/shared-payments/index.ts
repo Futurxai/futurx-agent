@@ -1,5 +1,7 @@
 // shared-payments — Futurx payment gateway
-// Used by: Paydll, PGSeat
+// Used by: Paydll, PGSeat, LoveDigitally (web-only)
 // Provider: Razorpay
-// Methods: initPayment, verifyPayment, handleWebhook
+// One-time orders: initPayment, verifyPayment
+// Subscriptions: createPlan, createSubscription, cancelSubscription, verifySubscriptionPayment
+// Webhooks: handleWebhook
 export * from './payments'
